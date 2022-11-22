@@ -1,0 +1,31 @@
+
+h1 {
+    text-align: center;
+    margin: 1rem 0 1.68rem 0;
+}
+
+form {
+    text-align: center;
+}
+
+td, 
+th {
+    text-align: center;
+    border: solid red 1px;
+    padding: 10px
+}
+
+.tableFormat table {
+    margin: 10px auto;
+}
+
+/* .claseFormulario {
+    background: wheat;
+    padding-bottom: 10px;
+} */
+
+
+
+#btn-envio {
+    font-size: 23px;;
+}
